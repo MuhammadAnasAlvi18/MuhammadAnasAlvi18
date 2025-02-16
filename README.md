@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [ClickySoft](https://www.clickysoft.com/)
 
-- 🌱 I’m currently learning **Reactjs, Nextjs**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadAnasAlvi18](https://github.com/MuhammadAnasAlvi18)
 
-- 💬 Ask me about **html, css ,javascript, reactjs, react native**
+- 💬 Ask me about **html, css ,javascript, reactjs, nextjs, typescript**
 
 - 📫 How to reach me **alvianas700@gmail.com**
 
